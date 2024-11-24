@@ -48,7 +48,7 @@ Special thanks to the developers of OpenCV and MediaPipe for their contributions
 
 ## Contact
 
-For any inquiries or suggestions, please contact [Your Name] <your.email@example.com>.
+For any inquiries or suggestions, please contact <ch.s.kiranreddy127@gmail.com>.
 
 --- 
 
